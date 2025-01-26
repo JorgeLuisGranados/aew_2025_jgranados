@@ -26,3 +26,22 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.perfil {
+    width: 200px;
+    border-width:  6px;
+    border-style: solid;
+    border-color: gold;
+    margin: 0;
+}
+
+.borde-redondeado {
+    border-radius: 150px;
+}
+
+#foto-perfil {
+    height: 250px;
+    justify-content: center;
+    background-color: #9ACBD0;
+    align-items: center;
+}
