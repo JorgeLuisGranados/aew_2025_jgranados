@@ -1,2 +1,10 @@
 
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: translate(30%);
+}
+
+.perfil {
+    transform: translate(95%);
+}
 
